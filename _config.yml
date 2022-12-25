@@ -2,13 +2,13 @@
 
 title: My GitHub Projects
 
-repository: MichaelCurrin/my-github-projects
-author: Michael Currin
-twitter_handle: MichaelCurrin
+repository: uvacoder/my-github-projects
+author: Alec Campbell
+twitter_handle: VaLandscapes
 
 ### Build settings ###
 
-url: https://michael-currin.netlify.app
+url: https://my-github-projects.vercel.app
 baseurl: ""
 
 theme: jekyll-bulma
